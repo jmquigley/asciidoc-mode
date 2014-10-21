@@ -1,6 +1,6 @@
 asciidoc-mode
 =============
-A simple asciidoc mode for emacs.  To use this mode, first add it to your load path in .emacs:
+A simple [asciidoc](http://www.methods.co.nz/asciidoc/) mode for emacs.  To use this mode, first add it to your load path in .emacs:
 
     (add-to-list 'load-path "{code location}")
 
